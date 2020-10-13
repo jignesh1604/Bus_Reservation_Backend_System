@@ -19,4 +19,3 @@ This is a Database Management System project in SQL which involves the study of 
 
 - Jignesh Jinjala
 
-**Summary**
