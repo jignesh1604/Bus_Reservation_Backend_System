@@ -2,12 +2,11 @@
 
 **TABLE OF CONTENTS**
 
-- About the project
-- ER diagram
-- Contributors
-- Summary
+- [About the project](#about)
+- [ER diagram]
+- [Contributors]
 
-**About the project**
+**<a name="about"></a>About the project**
 
 This is a Database Management System project in SQL which involves the study of important entity-sets and their relationship sets of a bus reservation database. The ER diagram of the bus reservation database involves the attributes and the relationship sets which involves several features such as generalization and derived, multivalued and composite attributes.
 
